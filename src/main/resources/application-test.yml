@@ -1,0 +1,5 @@
+spring:
+  messages: Hi Message from dev YML
+
+server:
+  port: 8089
